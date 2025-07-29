@@ -36,7 +36,6 @@ pip install yanghao.portlink
 -   **零配置** – 简单易用
 -   **TCP 协议** – 简单可靠
 -   **自动重连** – 网络中断后可自动恢复
--   **同步与异步 API** – 适应任何代码库
 -   **跨平台** – 支持 Linux、macOS、Windows
 
 ---
