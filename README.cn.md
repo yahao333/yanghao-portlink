@@ -30,6 +30,10 @@ pip install yanghao.portlink
         asyncio.run(main())
     ```
 
+3.  **Google Colab 示例**
+
+    对于 Google Colab 用户，请查看我们的 [Colab 示例](examples/colab.py)，演示如何将 Gradio 应用暴露到公网。
+
 ---
 
 ## ✨ 特性

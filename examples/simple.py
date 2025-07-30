@@ -1,7 +1,7 @@
 from yanghao.portlink import PortLinkClient as Client
 
 async def main():
-    # 这里是把8000端口映射到公网, 具体公网地址查看输出的调试信息
+    # Expose port 8000 to the public internet. Check the debug output for the specific public URL.
     async with Client(8000) as c:
         await c.link(8000)
 
